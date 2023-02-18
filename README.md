@@ -5,3 +5,6 @@ Monkey Chunky App is designed to help early stage readers practice reading words
 condition ?true :false
 # textInput
 onChangeText is a prop of textInput
+
+# Audio
+expo-av
